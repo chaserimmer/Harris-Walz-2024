@@ -3,9 +3,9 @@ Welcome to the Kamala Harris/Tim Walz advocacy repository megathread.
 
 Use this thread to quickly address false claims or provide info to those un/low informed.
 
-You can ontribute to this open source repo by pull requests.
+You can contribute to this open source repo by pull requests.
 
-Additionally, if you have any suggestions or think you can add to the formatting of the document (categorization,font,etc.) please feel free to do so by pull request.
+Additionally, if you have any suggestions or think you can add to the formatting of the document (categorization, font, etc.) please feel free to do so by pull request.
 
 <b>-links and videos encouraged
 
